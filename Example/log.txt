@@ -1,0 +1,6 @@
+[21:33:56] [E] [thread 13772] this is error
+[21:33:56] [W] [thread 13772] this is warn
+[21:33:56] [D] [thread 13772] this is debug
+[21:33:56] [I] [thread 13772] this is info
+[21:33:56] [T] [thread 13772] this is trace
+[21:33:56] [I] [thread 13772] make a combo of 1 and word
